@@ -1,0 +1,7 @@
+site_name: Josh Cannon's Blog
+theme:
+  name: material
+
+plugins:
+  - blog:
+      blog_dir: .
